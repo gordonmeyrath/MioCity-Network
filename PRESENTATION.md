@@ -3,6 +3,7 @@
 <div align="center">
   <h2>🌐 Connecting Communities, Businesses & Municipalities</h2>
   <p><strong>A comprehensive platform that brings local life into the digital age</strong></p>
+  <p><em>A product of <strong>MioWorkx UG (haftungsbeschränkt)</strong></em></p>
 </div>
 
 ---
@@ -512,10 +513,10 @@ Regular updates with new features based on user feedback and community needs.
 
 ### **Future Innovations**
 
-🚀 AI-powered recommendations
-🚀 Predictive analytics
+🚀 Intelligent recommendations
+🚀 Advanced analytics
 🚀 Smart routing for deliveries
-🚀 Automated issue categorization
+🚀 Enhanced issue categorization
 🚀 Community insights dashboard
 🚀 Integration marketplace
 🚀 White-label solutions
@@ -658,6 +659,18 @@ Fair pricing that supports ongoing development while remaining affordable for al
 
 ## 📞 Contact & Information
 
+### **Company Information**
+
+**MioWorkx UG (haftungsbeschränkt)**
+Homefelder Str. 1
+24613 Aukrug
+Germany
+
+**Email:** hello@miocitynet.com
+**Managing Director & Lead Developer:** Gordon Meyrath
+
+---
+
 ### **Learn More**
 
 Interested in bringing MioCity Network to your community? We'd love to hear from you.
@@ -673,6 +686,8 @@ Interested in supporting the future of local communities? Get in touch.
 ### **Technical Questions**
 
 Have questions about capabilities or integration? Our team is here to help.
+
+**Contact us at:** hello@miocitynet.com
 
 ---
 
@@ -791,11 +806,16 @@ MioCity Network is ready to bring your community into the digital age while pres
   <h3>🌐 MioCity Network</h3>
   <p><strong>Connecting Communities • Supporting Local Business • Empowering Citizens</strong></p>
   <p><em>Built with ❤️ for local communities everywhere</em></p>
+  <br>
+  <p><strong>MioWorkx UG (haftungsbeschränkt)</strong></p>
+  <p>Homefelder Str. 1 • 24613 Aukrug • Germany</p>
+  <p>📧 hello@miocitynet.com</p>
+  <p><em>Managing Director & Lead Developer: Gordon Meyrath</em></p>
 </div>
 
 ---
 
-**Document Version:** 1.0
+**Document Version:** 1.1
 **Last Updated:** November 2025
 **Status:** Production Ready
 
