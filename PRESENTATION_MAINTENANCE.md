@@ -13,11 +13,13 @@ This document tracks the maintenance and update process for the MioCity Network 
 ## 📄 Presentation Files
 
 ### **Primary Files**
+
 1. **PRESENTATION.md** - Main comprehensive presentation (800+ lines)
 2. **PUBLIC_PRESENTATION_README.md** - Navigation and quick reference guide
 3. **PRESENTATION_MAINTENANCE.md** - This file (maintenance tracking)
 
 ### **Location**
+
 All files are in the repository root: `/Users/gordonmeyrath/Documents/Development/ReactNativ/MiocityAppReact/`
 
 ---
@@ -27,24 +29,28 @@ All files are in the repository root: `/Users/gordonmeyrath/Documents/Developmen
 The presentation must be updated whenever:
 
 ### **Feature Development**
+
 - ✅ New features added to mobile app
 - ✅ New features added to desktop app
 - ✅ New modules or capabilities implemented
 - ✅ Existing features enhanced or improved
 
 ### **Platform Changes**
+
 - ✅ New platforms supported (Windows, Linux, etc.)
 - ✅ New languages added
 - ✅ New integrations implemented
 - ✅ API changes or expansions
 
 ### **Business Updates**
+
 - ✅ New partnership opportunities
 - ✅ New target markets identified
 - ✅ Pricing model changes
 - ✅ New use cases discovered
 
 ### **Vision & Roadmap**
+
 - ✅ Roadmap items completed (move to "Current Capabilities")
 - ✅ New roadmap items added
 - ✅ Strategic direction changes
@@ -55,6 +61,7 @@ The presentation must be updated whenever:
 ## 📊 Current Status
 
 ### **Last Major Update**
+
 - **Date:** November 20, 2025
 - **Version:** 1.0
 - **Status:** Initial comprehensive presentation created
@@ -62,6 +69,7 @@ The presentation must be updated whenever:
 ### **Current Coverage**
 
 **Mobile App Features:**
+
 - ✅ Community (Groups, Forums, Messages, Friends, Activity, Notifications)
 - ✅ Commerce (Click & Collect, Delivery, Reservations, Loyalty)
 - ✅ Gemeinde (Issue Reporting, Municipality Services)
@@ -70,6 +78,7 @@ The presentation must be updated whenever:
 - ✅ Multilingual Support (4 languages)
 
 **Desktop App Features:**
+
 - ✅ Business Manager (macOS)
 - ✅ Order Management
 - ✅ Product Management
@@ -78,6 +87,7 @@ The presentation must be updated whenever:
 - ✅ System Tray Integration
 
 **Platform Services:**
+
 - ✅ Web Administration Dashboard
 - ✅ REST API
 - ✅ Authentication System
@@ -91,6 +101,7 @@ The presentation must be updated whenever:
 ### **Strict Content Guidelines**
 
 **FORBIDDEN (Never Include):**
+
 - ❌ Source code or code snippets
 - ❌ Technical implementation details
 - ❌ WordPress, BuddyBoss, or framework mentions
@@ -100,6 +111,7 @@ The presentation must be updated whenever:
 - ❌ Server configurations or credentials
 
 **REQUIRED (Always Include):**
+
 - ✅ User-facing features and capabilities
 - ✅ Business value and benefits
 - ✅ Use cases and workflows
@@ -110,6 +122,7 @@ The presentation must be updated whenever:
 - ✅ Vision and roadmap
 
 ### **Writing Style**
+
 - Professional and polished
 - Clear and accessible (no jargon)
 - Benefit-focused (not feature-focused)
@@ -139,8 +152,22 @@ When updating the presentation, verify:
 
 ## 📝 Update Log
 
+### **Version 1.1 - November 20, 2025**
+
+**Company Information Added**
+
+- Added MioWorkx UG (haftungsbeschränkt) company information
+- Added company address: Homefelder Str. 1, 24613 Aukrug, Germany
+- Added contact email: hello@miocitynet.com
+- Added Managing Director & Lead Developer: Gordon Meyrath
+- Removed all AI-related references (changed to "intelligent" and "advanced")
+- Updated company info in header and footer of all documents
+- Synced changes to public GitHub repository
+
 ### **Version 1.0 - November 20, 2025**
+
 **Initial Creation**
+
 - Created comprehensive 800+ line presentation
 - Covered all current platform capabilities
 - Included all modules: Community, Commerce, Gemeinde, Business Management
@@ -150,6 +177,7 @@ When updating the presentation, verify:
 - Established maintenance guidelines
 
 **Features Documented:**
+
 - Mobile app (iOS & Android) - all community and commerce features
 - Desktop Business Manager (macOS) - complete feature set
 - Web administration dashboard
@@ -163,6 +191,7 @@ When updating the presentation, verify:
 ## 🚀 Future Update Areas
 
 ### **Planned Enhancements to Track**
+
 - Payment gateway integration (when implemented)
 - Video content support (when added)
 - Calendar integration (when available)
@@ -173,6 +202,7 @@ When updating the presentation, verify:
 - White-label solutions (when available)
 
 ### **Monitoring Points**
+
 - GitHub issues closed (new features)
 - Roadmap items completed
 - New screens or modules added
@@ -214,6 +244,7 @@ As the autonomous documentation agent, I will:
 ## 📞 Questions or Issues?
 
 If there are questions about:
+
 - What should be included in the presentation
 - How to describe a new feature
 - Whether something is too technical
@@ -226,4 +257,3 @@ Consult this maintenance guide and the strict content rules above.
 **Maintenance Guide Version:** 1.0  
 **Last Updated:** November 20, 2025  
 **Next Review:** When significant features are added or completed
-
